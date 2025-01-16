@@ -2,6 +2,7 @@
 -- (e.g. expansion teams, teams moving, renaming, etc). List the year 
 -- and team name of every baseball team that has ever played.
 
+
 -- Expected result: 2955 rows, ending with
 --
 -- | 2020 | Seattle Mariners                  |
@@ -13,4 +14,5 @@
 -- | 2020 | Washington Nationals              |
 -- +------+-----------------------------------+
 
+SELECT year, name FROM teams
 
