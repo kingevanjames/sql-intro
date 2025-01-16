@@ -1,5 +1,7 @@
 -- How many teams played in the league in each year?
 
+
+
 -- Expected result: 150 rows, ending with
 --
 -- | 2011 | 30       |

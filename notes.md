@@ -8,5 +8,6 @@ sqlite3 DB_FILENAME
 
 SELECT ___
 FROM ___, _____
+WHERE _____ (AND) _____
 ORDER BY ___ (DESC)
 LIMIT ___
