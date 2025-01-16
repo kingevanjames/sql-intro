@@ -8,7 +8,9 @@ sqlite3 DB_FILENAME
 
 SELECT ___
 FROM ___, _____
+INNER JOIN ___ ON primary key = foreign key
 WHERE _____ (AND) _____
+GROUP BY
 ORDER BY ___ (DESC)
 LIMIT ___
 
